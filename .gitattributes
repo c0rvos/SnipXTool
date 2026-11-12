@@ -1,0 +1,6 @@
+# Normalize line endings, keep binaries intact.
+* text=auto
+*.png binary
+*.ico binary
+*.ttf binary
+*.exe binary
